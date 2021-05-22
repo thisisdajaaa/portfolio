@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Dann Anthony Astillero",
+    "occupation": "React Software Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepicture.jpeg",
+    "bio": "Hi there! I am Dann! I am an experienced frontend developer interested in building usable, useful, well-constructed websites and applications. Also I am interested in continuation of learning and cooperation with excellent people.",
+    "contactmessage": "Get in touch with me and let's create an awesome project together!",
+    "email": "adannanthony@gmail.com",
+    "phone": "+63 9299820193",
+    "address": {
+      "street": "Waling-Waling Street",
+      "city": "Cebu City",
+      "state": "Cebu",
+      "zip": "6000"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://www.linkedin.com/in/dajakmpm/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiKQCkB71uD3BE6uIRefHaRr5fk5g3KtOY,1610081104188)/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCejzRZ1WDAIYsQInUKvpG0Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dannanthony.astillero/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dajakmpm/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dajakmpm/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DAJAKMPM",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Cebu Institute of Technology University",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "March 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fujitsu",
+        "title": "Application Systems Engineer",
+        "years": "April 2018 - Jul 2021",
+        "description": "Designs react based systems or applications based on Clients requirements"
+      },
+      {
+        "company": "Accenture",
+        "title": "Application Development Senior Analyst",
+        "years": "Jul 2021 - Present",
+        "description": "Designs small to medium size solutions or partial solutions within an established architecture using react"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "85%"
+      },
+      {
+        "name": "Typescript",
+        "level": "85%"
+      },
+      {
+        "name": "React Native",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Crwn Clothing (React JS)",
+        "category": "",
+        "image": "CrwnClothing.png",
+        "url": "https://github.com/DAJAKMPM/crwn-clothing"
+      },
+      {
+        "title": "Fb Clone (React JS)",
+        "category": "",
+        "image": "fb-clone.png",
+        "url": "https://github.com/DAJAKMPM/fb-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very proficient in any JavaScript Technology. Exhibits a contagious positive attitude towards learning new technologies on becoming a better full-stack developer.",
+        "user": "Alexandros Pappas"
+      },
+      {
+        "text": "Learning with Dann has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
