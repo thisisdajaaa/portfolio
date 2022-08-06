@@ -63,8 +63,14 @@
       {
         "company": "Accenture",
         "title": "Application Development Senior Analyst",
-        "years": "Jul 2021 - Present",
+        "years": "Jul 2021 - May 2022",
         "description": "Designs small to medium size solutions or partial solutions within an established architecture using react"
+      },
+      {
+        "company": "Codev",
+        "title": "React JS Developer",
+        "years": "May 2022 - Present",
+        "description": "Develop large scale applications using React."
       }
     ],
     "skills": [
@@ -86,7 +92,7 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
@@ -102,15 +108,27 @@
     "projects": [
       {
         "title": "Crwn Clothing (React JS)",
-        "category": "",
+        "category": "Clone",
         "image": "CrwnClothing.png",
         "url": "https://github.com/DAJAKMPM/crwn-clothing"
       },
       {
         "title": "Fb Clone (React JS)",
-        "category": "",
+        "category": "Clone",
         "image": "fb-clone.png",
         "url": "https://github.com/DAJAKMPM/fb-clone"
+      },
+      {
+        "title": "Medium Clone (React JS)",
+        "category": "Clone",
+        "image": "medium.png",
+        "url": "https://github.com/DAJAKMPM/medium-clone"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "Clone",
+        "image": "amazon.png",
+        "url": "https://github.com/DAJAKMPM/amazon-clone"
       }
     ]
   },
